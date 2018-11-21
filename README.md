@@ -7,4 +7,4 @@ This password checker will gauge your password and give it a score based on how 
 It will let you know if you picked a common password (don't do that!) and it will also take into account
 the probability of letters landing close to each other.
 ```
-According to the site, this code is licensed under the GPLv3.
+According to the author, this code is licensed under the GPLv3.
